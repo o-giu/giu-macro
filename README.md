@@ -1,5 +1,7 @@
 # Macro
 
+💻 Windows
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Uma ferramenta de automação de macros projetada para simplificar tarefas repetitivas em diferentes janelas e cenários.  
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> A comprehensive macro automation tool designed to simplify repetitive tasks across different windows and scenarios.
 
