@@ -2,8 +2,8 @@
 
 💻 Windows
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Uma ferramenta de automação de macros projetada para simplificar tarefas repetitivas em diferentes janelas e cenários. **(Lembre-se que o App precisa ser utilizado em modo Admin)**  
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> A comprehensive macro automation tool designed to simplify repetitive tasks across different windows and scenarios. **(Remember that the App needs to be used in Admin mode)**
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Uma ferramenta de automação de macros projetada para simplificar tarefas repetitivas em diferentes janelas e cenários. **(Lembre-se que o App precisa ser utilizado em modo Admin / Clique direito sobre o executável, propriedades, aba de compatibilidade, marque o executar como admin)**  
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> A comprehensive macro automation tool designed to simplify repetitive tasks across different windows and scenarios. **(Remember that the App needs to be used in Admin mode / Right click on the executable, properties, compatibility tab, check run as admin)**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Eu decidi criar este programa para questões de estudo e porque eu precisava de uma macro que fizesse certas coisas que eu precisava, mas sem precisar do uso de scripts.<br>
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> I decided to create this program for study purposes and because I needed a macro that would do certain things that I needed, but without the use of scripts.
