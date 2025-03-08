@@ -68,3 +68,10 @@ $\textcolor{red}{Right\ click\ on\ the\ executable,\ properties,\ compatibility\
 | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> | **Record and Play Macro Module** <br> - **Functionality:** Allows recording and replaying mouse and keyboard actions. <br> - **Details:** The program physically records user actions (mouse movements, clicks, key presses) and reproduces them exactly as recorded. Ideal for replicating complex or repetitive tasks with precision. |
 
 ---
+
+## Links Úteis / Useful Links
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> | <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> |
+|-----------|-----------|
+| Repositório no GitHub: [giu-macro](https://github.com/o-giu/giu-macro) | GitHub Repository: [giu-macro](https://github.com/o-giu/giu-macro) |
+| Lançamentos: [giu-macro](https://github.com/o-giu/giu-macro/releases) | Releases: [giu-macro](https://github.com/o-giu/giu-macro/releases) |
+| Desenvolvedor: @Giu | Developer: @Giu |
