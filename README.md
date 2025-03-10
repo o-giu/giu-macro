@@ -2,6 +2,8 @@
 
 💻 Windows
 
+![Safe](https://img.shields.io/badge/Safe-passing-green.svg)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> Uma ferramenta de automação de macros projetada para simplificar tarefas repetitivas em diferentes cenários. 
 $\textcolor{red}{Lembre-se\ que\ o\ App\ precisa\ ser\ utilizado\ em\ modo\ Admin\}$<br>
 $\textcolor{red}{Clique\ direito\ sobre\ o\ executável,\ propriedades,\ aba\ de\ compatibilidade,\ marque\ o\ executar\ como\ admin}$  
